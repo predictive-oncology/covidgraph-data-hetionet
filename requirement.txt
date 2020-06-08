@@ -1,0 +1,14 @@
+py2neo
+linetimer
+pebble
+requests
+graphio
+pandas
+scipy
+pydash
+obonet
+openpyxl
+git+git://github.com/cmungall/obo
+git+https://git.connect.dzd-ev.de/dzdtools/pythonmodules.git#subdirectory=DZDjson2GraphIO
+git+https://git.connect.dzd-ev.de/dzdtools/pythonmodules.git#subdirectory=Configs
+
